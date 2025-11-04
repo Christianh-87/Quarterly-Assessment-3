@@ -1,0 +1,16 @@
+# Ignore Python cache and environment folders
+__pycache__/
+*.pyc
+.env/
+venv/
+
+# Ignore API keys and config files
+config.py
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
